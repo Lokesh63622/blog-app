@@ -1,8 +1,11 @@
 # task
 
+
 ## Project setup
 ```
 npm install
+ userName :lokesh
+ password :lokesh123
 ```
 
 ### Compiles and hot-reloads for development
